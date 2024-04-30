@@ -2,7 +2,7 @@
   "pages": [
     {
       "id": "Page1",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "deprecated_Roster",
@@ -30,7 +30,7 @@
     },
     {
       "id": "Home",
-      "isDefault": true
+      "isDefault": false
     },
     {
       "id": "User Queries",
